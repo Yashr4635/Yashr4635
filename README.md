@@ -17,10 +17,6 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   &nbsp;
-  <a href="https://yourportfolio.com">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-  </a>
-  &nbsp;
   <a href="mailto:yashr4635@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
@@ -38,15 +34,14 @@
 
 📊 Data Analyst Intern @ Bluestock Fintech
 
-💻 Data Science and Analyst  Intern @ Zidio Development
+💻 Software Development Intern @ Zidio Development
 
 🤖 Exploring AI, Machine Learning & Data Analytics
 
 🌱 Building Full Stack Applications and Real-World Projects
 
 ### 🌱 Currently Learning
-- Python &nbsp;•&nbsp; SQL &nbsp;•&nbsp; Power BI
-- FastAPI &nbsp;•&nbsp; Machine Learning
+Python &nbsp;•&nbsp; SQL &nbsp;•&nbsp; Power BI &nbsp;•&nbsp; FastAPI &nbsp;•&nbsp; Machine Learning
 
 ### 🎯 Career Goal
 AI Engineer &nbsp;|&nbsp; Data Engineer &nbsp;|&nbsp; Full Stack Developer
