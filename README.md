@@ -4,17 +4,42 @@
 Data Analytics | AI/ML | Full Stack Engineering
 </h3>
 
+<p align="center">
+Currently Intern @ Bluestock Fintech & Zidio Development 🚀
+</p>
+
+<p align="center">
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+</p>
+
+<p align="center">
+<a href="https://www.linkedin.com/in/ds-yashaswin-662533318/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:yashr4635@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+</p>
+
 ---
 
-## 🚀 About Me
+# 🚀 About Me
 
 🎓 B.Tech CSE (Data Science) @ HITAM
 
 📊 Data Analyst Intern @ Bluestock Fintech
 
-🤖 Exploring AI, Machine Learning & Data Analytics
+💻 Software Development Intern @ Zidio Development
 
-💻 Building Full Stack Applications and Real-World Projects
+🤖 Exploring AI, Machine Learning & Data Analytics
 
 🌱 Currently Learning:
 - Python
@@ -22,76 +47,78 @@ Data Analytics | AI/ML | Full Stack Engineering
 - Power BI
 - FastAPI
 - Machine Learning
+- Data Engineering
 
 🎯 Career Goal:
-AI Engineer | Data Engineer | Full Stack Developer
+AI Engineer | Data Engineer | Full Stack Engineer
 
 ---
 
-## 🛠 Tech Stack
+# 📊 GitHub Stats
 
-![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)
+<p align="center">
 
-![SQL](https://img.shields.io/badge/SQL-blue?style=for-the-badge&logo=mysql)
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Yashr4635&show_icons=true&theme=tokyonight"/>
 
-![Power BI](https://img.shields.io/badge/PowerBI-yellow?style=for-the-badge&logo=powerbi)
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Yashr4635&theme=tokyonight"/>
 
-![Pandas](https://img.shields.io/badge/Pandas-black?style=for-the-badge&logo=pandas)
+</p>
 
-![NumPy](https://img.shields.io/badge/NumPy-blue?style=for-the-badge&logo=numpy)
+<p align="center">
 
-![Git](https://img.shields.io/badge/Git-orange?style=for-the-badge&logo=git)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yashr4635&layout=compact&theme=tokyonight"/>
 
-![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=openjdk)
-
-![FastAPI](https://img.shields.io/badge/FastAPI-green?style=for-the-badge&logo=fastapi)
+</p>
 
 ---
 
-## 🌐 Connect With Me
+# 🚀 Featured Projects
 
-[LinkedIn](https://www.linkedin.com/in/ds-yashaswin-662533318/)
-
-Email: yashr4635@gmail.com
-
----
-
-## 📊 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=Yashr4635&show_icons=true&theme=tokyonight)
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=Yashr4635&theme=tokyonight)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Yashr4635&layout=compact&theme=tokyonight)
-
----
-
-## 🚀 Featured Projects
-
-### 📈 Mutual Fund Analytics Platform
-- Fund Analysis
+## 📈 Mutual Fund Analytics Platform
 - NAV Tracking
-- Portfolio Insights
+- Fund Comparison
+- Portfolio Analytics
+- SIP Calculator
 
-### 🛡 AI Scam Detector
+## 🛡 AI Scam Detector
 - OCR Integration
+- Scam Detection
 - Machine Learning Classification
 
-### 💻 Java Backend Journey
+## 💻 Java Backend Journey
 - Spring Boot
 - REST APIs
 - Backend Development
 
 ---
 
-## 👀 Profile Views
+# 🏆 GitHub Trophies
 
-![](https://komarev.com/ghpvc/?username=Yashr4635)
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Yashr4635&theme=tokyonight&row=1&column=6"/>
+
+</p>
 
 ---
 
-## 🏆 GitHub Trophies
+# 👀 Profile Views
 
-![](https://github-profile-trophy.vercel.app/?username=Yashr4635)
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=Yashr4635&label=Profile%20Views&color=blue&style=for-the-badge"/>
+
+</p>
+
+---
+
+# 🌐 Connect With Me
+
+📍 Hyderabad, India
+
+📧 yashr4635@gmail.com
+
+💼 LinkedIn:
+https://www.linkedin.com/in/ds-yashaswin-662533318/
 
 ⭐ Always learning and building real-world projects.
