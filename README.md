@@ -38,7 +38,7 @@
 
 📊 Data Analyst Intern @ Bluestock Fintech
 
-💻 Software Development Intern @ Zidio Development
+💻 Data Science and Analyst  Intern @ Zidio Development
 
 🤖 Exploring AI, Machine Learning & Data Analytics
 
