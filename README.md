@@ -63,47 +63,73 @@ AI Engineer &nbsp;|&nbsp; Data Engineer &nbsp;|&nbsp; Full Stack Developer
 </table>
 
 ---
-
-## 🚀 Pinned Repositories
+## 🚀 Featured Projects
 
 <table>
 <tr>
+
 <td width="50%" valign="top">
 
-### 📈 mutual-fund-analytics
-> Mutual Fund Analytics Platform with Fund Analysis, NAV Tracking & Insights
+### 📊 mutual-fund-analytics
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+> End-to-end Mutual Fund Analytics platform developed during my Bluestock Fintech Internship featuring SQL, Python, Power BI dashboards, KPI reporting and investor insights.
+
+**Tech Stack**
+
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square\&logo=python\&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-336791?style=flat-square\&logo=postgresql\&logoColor=white)
+![Power%20BI](https://img.shields.io/badge/-PowerBI-F2C811?style=flat-square\&logo=powerbi\&logoColor=black)
 
 </td>
+
 <td width="50%" valign="top">
 
-### 🛡️ ai-scam-detector
-> AI based scam detection system using OCR and Machine Learning
+### 🛡️ FraudRadar-v2
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+> AI-powered fraud detection platform with secure authentication, intelligent analysis, dashboards and modern full-stack architecture.
+
+**Tech Stack**
+
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square\&logo=python\&logoColor=white)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square\&logo=fastapi\&logoColor=white)
 
 </td>
+
 </tr>
+
 <tr>
+
 <td width="50%" valign="top">
 
-### ☕ java-backend-journey
-> Java backend development journey with Spring Boot and REST APIs
+### 📈 Project_FORESIGHT
 
-![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+> Business Intelligence and Data Analytics project focused on KPI reporting, data visualization and business decision-making using interactive dashboards.
+
+**Tech Stack**
+
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square\&logo=python\&logoColor=white)
+![Power%20BI](https://img.shields.io/badge/-PowerBI-F2C811?style=flat-square\&logo=powerbi\&logoColor=black)
 
 </td>
+
 <td width="50%" valign="top">
 
-### 🏦 CommBank-Server
-> Forked from CommBank-Server — Backend service and API implementation
+### 🤖 ai-scam-detector
 
-![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=csharp&logoColor=white)
+> AI-powered scam detection application using OCR, Machine Learning and NLP to identify suspicious messages and online fraud.
+
+**Tech Stack**
+
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square\&logo=python\&logoColor=white)
+![Scikit--Learn](https://img.shields.io/badge/-ScikitLearn-F7931E?style=flat-square\&logo=scikitlearn\&logoColor=white)
 
 </td>
+
 </tr>
+
 </table>
+
+---
 
 ---
 
