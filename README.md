@@ -26,6 +26,7 @@
 
 <table>
 <tr>
+
 <td valign="top" width="50%">
 
 ## 🚀 About Me
@@ -34,51 +35,68 @@
 
 📊 Data Analyst Intern @ Bluestock Fintech
 
-💻 Data Science and Analyst  Intern @ Zidio Development
+💻 Data Science & Analyst Intern @ Zidio Development
 
-🤖 Exploring AI, Machine Learning & Data Analytics
+🤖 Passionate about AI, Machine Learning & Data Analytics
 
-🌱 Building Full Stack Applications and Real-World Projects
+🌱 Building Real-World Data & Full Stack Projects
 
 ### 🌱 Currently Learning
-Python &nbsp;•&nbsp; SQL &nbsp;•&nbsp; Power BI &nbsp;•&nbsp; FastAPI &nbsp;•&nbsp; Machine Learning
+
+Python • SQL • Power BI • FastAPI • Machine Learning
 
 ### 🎯 Career Goal
-AI Engineer &nbsp;|&nbsp; Data Engineer &nbsp;|&nbsp; Full Stack Developer
+
+AI Engineer | Data Engineer | Full Stack Developer
 
 </td>
+
 <td valign="top" width="50%">
 
 ## 📊 GitHub Stats
 
-![Yashaswi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Yashr4635&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117)
+<p align="center">
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Yashr4635&theme=tokyonight&hide_border=true&background=0d1117)
+<img
+height="170"
+src="https://github-readme-stats.vercel.app/api?username=Yashr4635&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
 
-### 🔠 Most Used Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Yashr4635&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117)
+<br><br>
+
+<img
+height="170"
+src="https://streak-stats.demolab.com?user=Yashr4635&theme=tokyonight&hide_border=true"/>
+
+<br><br>
+
+<img
+height="170"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yashr4635&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
+
+</p>
 
 </td>
+
 </tr>
 </table>
 
 ---
-## 🚀 Featured Projects
+
+# 🚀 Featured Projects
 
 <table>
+
 <tr>
 
 <td width="50%" valign="top">
 
-### 📊 mutual-fund-analytics
+### 📊 Mutual Fund Analytics
 
-> End-to-end Mutual Fund Analytics platform developed during my Bluestock Fintech Internship featuring SQL, Python, Power BI dashboards, KPI reporting and investor insights.
+End-to-end Mutual Fund Analytics platform developed during my Bluestock Fintech Internship featuring SQL, Python, Power BI dashboards, KPI reporting and investor insights.
 
 **Tech Stack**
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square\&logo=python\&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-336791?style=flat-square\&logo=postgresql\&logoColor=white)
-![Power%20BI](https://img.shields.io/badge/-PowerBI-F2C811?style=flat-square\&logo=powerbi\&logoColor=black)
+Python • SQL • Power BI
 
 </td>
 
@@ -86,12 +104,11 @@ AI Engineer &nbsp;|&nbsp; Data Engineer &nbsp;|&nbsp; Full Stack Developer
 
 ### 🛡️ FraudRadar-v2
 
-> AI-powered fraud detection platform with secure authentication, intelligent analysis, dashboards and modern full-stack architecture.
+AI-powered fraud detection platform with authentication, OCR, ML-based detection and modern full-stack architecture.
 
 **Tech Stack**
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square\&logo=python\&logoColor=white)
-![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square\&logo=fastapi\&logoColor=white)
+Python • FastAPI • React • Supabase
 
 </td>
 
@@ -101,27 +118,25 @@ AI Engineer &nbsp;|&nbsp; Data Engineer &nbsp;|&nbsp; Full Stack Developer
 
 <td width="50%" valign="top">
 
-### 📈 Project_FORESIGHT
+### 📈 Project FORESIGHT
 
-> Business Intelligence and Data Analytics project focused on KPI reporting, data visualization and business decision-making using interactive dashboards.
+Business Intelligence project focused on KPI reporting, visualization and business decision-making.
 
 **Tech Stack**
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square\&logo=python\&logoColor=white)
-![Power%20BI](https://img.shields.io/badge/-PowerBI-F2C811?style=flat-square\&logo=powerbi\&logoColor=black)
+Python • Power BI
 
 </td>
 
 <td width="50%" valign="top">
 
-### 🤖 ai-scam-detector
+### 🤖 AI Scam Detector
 
-> AI-powered scam detection application using OCR, Machine Learning and NLP to identify suspicious messages and online fraud.
+OCR + Machine Learning based scam detection system for suspicious messages.
 
 **Tech Stack**
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square\&logo=python\&logoColor=white)
-![Scikit--Learn](https://img.shields.io/badge/-ScikitLearn-F7931E?style=flat-square\&logo=scikitlearn\&logoColor=white)
+Python • Scikit-Learn • OCR
 
 </td>
 
@@ -131,18 +146,18 @@ AI Engineer &nbsp;|&nbsp; Data Engineer &nbsp;|&nbsp; Full Stack Developer
 
 ---
 
----
-
-## 🏆 GitHub Trophies
+# 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Yashr4635&theme=tokyonight&row=1&column=6&no-frame=true&margin-w=10"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Yashr4635&theme=tokyonight&row=1&column=6&no-frame=true"/>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Yashr4635&label=Profile%20Views&color=blue&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=Yashr4635&style=for-the-badge&color=blue"/>
 </p>
 
-<p align="center">⭐ Always learning and building real-world projects.</p>
+<p align="center">
+⭐ Always learning and building real-world projects.
+</p>
